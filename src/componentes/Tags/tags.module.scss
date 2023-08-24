@@ -1,4 +1,4 @@
-@import "../../styles/variaveis";
+@import "styles/variaveis";
 
 .tags {
   width: 65vw;
@@ -15,7 +15,7 @@
 
   &__lista {
     list-style: none;
-    width: 300px;
+    width: 380px;
     padding: 0;
     display: flex;
     justify-content: space-between;
